@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "node_1",
+      "base_energy": 100,
+      "usage_factor": 1.2,
+      "battery_capacity": 20,
+      "stored_energy": 0
+    },
+    {
+      "id": "node_2",
+      "base_energy": 80,
+      "usage_factor": 1.5,
+      "battery_capacity": 20,
+      "stored_energy": 0
+    },
+    {
+      "id": "node_3",
+      "base_energy": 60,
+      "usage_factor": 1.1,
+      "battery_capacity": 20,
+      "stored_energy": 0
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Node_A",
+    "role": "Producer",
+    "umbrella": "Type A",
+    "base_energy": 5,
+    "usage_factor": 0.5,
+    "battery_capacity": 20,
+    "stored_energy": 10
+  },
+  {
+    "id": "Node_B",
+    "role": "Consumer",
+    "umbrella": "Type B",
+    "base_energy": 8,
+    "usage_factor": 1.2,
+    "battery_capacity": 15,
+    "stored_energy": 5
+  },
+  {
+    "id": "Node_C",
+    "role": "Prosumer",
+    "umbrella": "Type A",
+    "base_energy": 6,
+    "usage_factor": 1.0,
+    "battery_capacity": 10,
+    "stored_energy": 2
+  },
+  {
+    "id": "Node_D",
+    "role": "Consumer",
+    "umbrella": "Type B",
+    "base_energy": 4,
+    "usage_factor": 1.5,
+    "battery_capacity": 5,
+    "stored_energy": 1
+  }
+]
